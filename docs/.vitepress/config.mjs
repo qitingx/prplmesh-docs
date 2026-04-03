@@ -20,6 +20,7 @@ export default {
         text: '📖 快速入门',
         items: [
           { text: '项目概览与首页', link: '/' },
+          { text: '常见问题 (FAQ)', link: '/faq' },
           { text: '学习计划与思考题', link: '/test' }
         ]
       },
