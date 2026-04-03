@@ -58,7 +58,7 @@ export default {
 
     // 文档编辑链接 (可选，如果你把文档传到了 GitHub)
     editLink: {
-      pattern: 'https://github.com/qitingxu/prplmesh-docs/edit/main/docs/:path',
+      pattern: 'https://github.com/qitingx/prplmesh-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     }
   }
